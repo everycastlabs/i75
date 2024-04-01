@@ -11,11 +11,15 @@ and doesn't need constant deploying to physical hardware for testing.
    :maxdepth: 2
 
    about
+   datetime
+   colour
    installing
    running
    i75
    emulatedi75
    emulated/network
+   screens/single_colour_buffer
+   text
 
    secrets
 
