@@ -20,7 +20,7 @@ add_function_parentheses = True
 #modindex_common_prefix = []
 
 project = u'i75'
-copyright = u'2023, Andrew Wilkinson'
+copyright = u'2024, Andrew Wilkinson'
 
 version = ''
 release = ''
@@ -36,3 +36,6 @@ html_use_index = False
 html_show_sphinx = False
 htmlhelp_basename = 'i75'
 html_show_sourcelink = False
+
+coverage_statistics_to_stdout = True
+coverage_show_missing_items = True
