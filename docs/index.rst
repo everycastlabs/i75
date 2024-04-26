@@ -18,7 +18,7 @@ and doesn't need constant deploying to physical hardware for testing.
    i75
    emulatedi75
    emulated/network
-   screens/single_bit_buffer
+   screens/index
    text
 
    secrets
